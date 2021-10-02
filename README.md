@@ -1,4 +1,5 @@
-# Prime-Factors-Scatch
+# Prime Factors Scatch
+
 A Scratch project to calculate Prime Factors in a TDD style
 
 I was discussing Prime Factors with my son and had done a coding kata to calculate these in Python. 
